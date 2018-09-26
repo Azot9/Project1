@@ -5,8 +5,9 @@
 </head>
 <body>
   <?php
-  echo "number1";
-  echo "1235566665";
+  echo "number1<br>";
+   echo "number2<br>";
+  echo "1235566665<br>";
   ?>
 </body>
 </html>
